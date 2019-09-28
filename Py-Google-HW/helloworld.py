@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-	print('ajay dooche')
+	print('ajay is a dooche')
